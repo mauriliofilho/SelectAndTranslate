@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/SelectAndTranslate
 report_id: 8523cf35f1755ee6f91f81db99b57a0c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:50:48+00:00'
+timestamp: '2024-01-05T08:31:35+00:00'
 requested_by: LuxintN7
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/SelectAndTranslate/blob/master/SelectAndTranslate.csproj
+  detection_source_url: https://github.com/mauriliofilho/SelectAndTranslate/blob/master/SelectAndTranslate.csproj
   detection_source: SelectAndTranslate.csproj
   last_updated_by: Anastasia Nevidomska
   last_updated_on: 2015-02-26 13:58:45.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/SelectAndTranslate
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -42,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: github.com/mauriliofilho/SelectAndTranslate/blob/master/SelectAndTranslate.csproj
+  detection_source_url: https://github.com/mauriliofilho/SelectAndTranslate/blob/master/SelectAndTranslate.csproj
   detection_source: SelectAndTranslate.csproj
   last_updated_by: Anastasia Nevidomska
   last_updated_on: 2015-02-26 13:58:45.000000000 Z
@@ -54,6 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/SelectAndTranslate
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/SelectAndTranslate/blob/master/SelectAndTranslate.sln
   detection_source: SelectAndTranslate.sln
   last_updated_by: Alexander Agakhanov
   last_updated_on: 2015-02-27 21:35:17.000000000 Z
